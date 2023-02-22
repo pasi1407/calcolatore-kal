@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+            div {
+                border: 2px solid black;
+                padding: 7px solid grey;
+                margin: 10px solid black;
+            }
+            #box2 {
+            border-color: aqua;
+            position: relative;left: 30px;
+              }
+            #box3 {
+                border-color: red;
+                position: relative;left: 40px;
+            }
+            #box4 {
+                border-color: green;
+                position: relative;left: 50px;
+            }
+            #box5 {
+                border-color: wheat;
+                position: relative;left: 60px;
+            }
+            #box6 {
+                border-color: darksalmon;
+                position: relative;left: 70px;
+            }
+            #box7{
+                border-color: slategray;
+                position: relative;left: 80px;
+            }
+            #box8 {
+                border-color: fuchsia;
+                position: relative;left: 90px; 
+            }
+            
+                
+            #box2, #box3, #box4, #box5,#box6,#box7,#box8 {
+                width: 100px;
+                height: 100px;
+            }
+    </style>
+</head>
+<body>
+    <div id="box2"><img src="pecore.webp" alt="" width="100px" height="100px "></div>
+    <br>
+    <div id="box3"> <img src="allevare-pecore.jpg" alt="" width="100px" height="100px"></div>
+    <br>
+    <div id="box4"><img src="oooo.jpg" alt="" height="100px" width="100px"></div>
+    <br>
+    <div id="box5"><img src="allevare-le-pecore.jpg" alt="" height="100px" width="100px"></div>
+    <br>
+    <div id="box6"><img src="pompei ©parco archeologico di pompei.jpeg" alt="" height="100px "width100px></div>
+    <br>
+    <div id="box7"><img src="pecora_06.jpg" alt="" height="100px" width="100px "></div>
+    <br>
+    <div id="box8"><img src="Allevamento-di-pecore-da-carne.jpeg" alt="" height="100px" width="100px "></div>
+
+
+
+
+
+
+
+</body>
+</html>
